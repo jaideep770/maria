@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+
+<meta charset="UTF-8">
+<title> MedEasy </title>
+<link rel = "stylesheet" href = "style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+<div class = "navbar">
+<div class = "logo">
+<img src = "logo.jpg" alt= "Logo" width = "300px">
+</div>
+
+<nav>
+<ul>
+<li><a href = ""> Home </a></li> 
+<li><a href = ""> Covid Essentials </a></li>
+<li><a href = ""> Mom & Baby </a></li>
+<li><a href = ""> Fitness </a></li>
+<li><a href = ""> Body Care </a></li>
+<li><a href = ""> First Aid </a></li>
+<li><a href = ""> Devices </a></li>
+</ul>
+<img src = "cart.png" width = "30px" height = "30px">
+</nav>
+
+
+</div>
+
+<div class = "row">
+<div class = "col-2">
+<h1>Pharmacy at your doorstep!</h1>
+<p>Healthcare made easier. Complete range of medicines</p>
+</div>
+
+<div class = "col-2">
+<img src = "healthcare.jpg" alt ="Healthcare"> 
+</div>
+
+</div>
+</div>
+
+
+<!------------------- featured categories-------------->
+
+<div class = "categories">
+<h2>Categories</h2>
+<br></br>
+<div class = "row">
+<div class = "col-3">
+<img src = "corona.jpg" alt = "COVID Essentials" title = "COVID Essentials" >
+</div>
+<div class = "col-3">
+<img src = "mom and baby care.jpg" alt = "Mom & Baby Care" title = "Mom & Baby Care" >
+</div>
+<div class = "col-3">
+<img src = "skin care.jpg" alt = "Body care" title = "Body care" >
+</div>
+<div class = "col-3">
+<img src = "fitness.jpg" alt = "Fitness" title ="Fitness">
+</div>
+<div class = "col-3">
+<img src = "first aid.jpg" alt = "First Aid" title = "First Aid" >
+</div>
+<div class = "col-3">
+<img src = "device.jpg" alt = "Device" title = "Devices">
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+</body>
+
+</html>
